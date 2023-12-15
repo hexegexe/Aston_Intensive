@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ad84642-0036-43d8-9e8d-c9c80a0485ae" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/services/SearchServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/services/SearchServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/services/SiteIndexingServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/services/SiteIndexingServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,9 +12,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2ZagfL4szuQUBv31IYvYKRsvpoL" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,7 +24,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "feature/hw1__description",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/alex.kolesnik/Intensive/searchengine",
     "nodejs_package_manager_path": "npm",
@@ -48,6 +47,7 @@
       <option name="presentableId" value="Default" />
       <updated>1702665705228</updated>
       <workItem from="1702665706269" duration="19000" />
+      <workItem from="1702667471127" duration="3000" />
     </task>
     <servers />
   </component>
