@@ -46,7 +46,6 @@ public class SiteIndexingServiceImpl implements SiteIndexingService {
         this.sitesList = sitesList;
         this.siteMapRecursiveTask = siteMapRecursiveTask;
         this.connectionConfig = connectionConfig;
-
     }
 
     @Override
